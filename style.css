@@ -2,6 +2,7 @@
 body {
   background-color: #d6e2f0;
   font-family: 'Outfit', sans-serif;
+  min-height: 100vh;
 }
 
 body p {
