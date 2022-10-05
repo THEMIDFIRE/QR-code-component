@@ -10,7 +10,7 @@ body p {
 
 .container {
   text-align: center;
-  margin: 7% 40%;
+  max-width: 320px;
 }
 
 .container .card {
@@ -19,6 +19,7 @@ body p {
   padding: 12px;
   -webkit-box-shadow: 0 3px 20px 1px #737373;
           box-shadow: 0 3px 20px 1px #737373;
+  margin-bottom: 20px;
 }
 
 .container .card img {
